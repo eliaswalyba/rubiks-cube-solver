@@ -1,1 +1,1 @@
-# RubiksCubeAI
+# Rubiks Cube Solver
